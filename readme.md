@@ -1,4 +1,4 @@
-# House Prices in Akron, Iowa
+# House Prices in Ames, Iowa
 
 My tiny repo for the House Prices competition on Kaggle. As always, I prefer to build on what others have done when it comes to ideas for data cleaning and preparation. Then I look into creating a couple of different models to train and test on the data.
 
